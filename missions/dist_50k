@@ -1,0 +1,10 @@
+{
+  "key": "dist_50k",
+  "title": "Kein Weg zu weit",
+  "description": "Lege eine epische Distanz von 50.000 Metern zurück.",
+  "category": "distance",
+  "difficulty": "hard",
+  "kind": "distance",
+  "target": { "meters": 50000 },
+  "reward_coins": 1500
+}
