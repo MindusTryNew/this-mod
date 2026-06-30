@@ -1,0 +1,10 @@
+{
+  "key": "speed_100",
+  "title": "Erster Meilenstein",
+  "description": "Beschleunige auf 100 km/h.",
+  "category": "speed",
+  "difficulty": "easy",
+  "kind": "speed_reach",
+  "target": { "kmh": 100 },
+  "reward_coins": 100
+}
