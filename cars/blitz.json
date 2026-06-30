@@ -1,0 +1,17 @@
+{
+  "key": "blitz",
+  "name": "Blitz GT",
+  "tagline": "Stadt-Rakete mit Spitzendrehzahl",
+  "color": "#ff3355",
+  "mass": 1180,
+  "power": 720,
+  "brakeForce": 26000,
+  "topSpeed": 340,
+  "maxSteer": 0.62,
+  "wheelbase": 2.55,
+  "gearRatios": [3.2, 2.1, 1.5, 1.15, 0.92, 0.78],
+  "finalDrive": 3.7,
+  "maxRpm": 9500,
+  "shiftUpRpm": 8200,
+  "shiftDownRpm": 3000
+}
