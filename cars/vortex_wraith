@@ -1,0 +1,17 @@
+{
+  "key": "vortex_wraith",
+  "name": "Vortex Wraith",
+  "tagline": "Ein schreiendes V12-Monster, das die Grenzen der Physik sprengt",
+  "color": "#1a1a2e",
+  "mass": 1050,
+  "power": 1250,
+  "brakeForce": 42000,
+  "topSpeed": 425,
+  "maxSteer": 0.58,
+  "wheelbase": 2.72,
+  "gearRatios": [2.9, 1.95, 1.42, 1.12, 0.92, 0.77, 0.64],
+  "finalDrive": 3.2,
+  "maxRpm": 11000,
+  "shiftUpRpm": 10200,
+  "shiftDownRpm": 4500
+}
