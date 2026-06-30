@@ -1,0 +1,10 @@
+{
+  "key": "sustain_50_30s",
+  "title": "Innerorts-Profi",
+  "description": "Halte eine Geschwindigkeit von 50 km/h für 30 Sekunden.",
+  "category": "control",
+  "difficulty": "easy",
+  "kind": "speed_sustain",
+  "target": { "kmh": 50, "seconds": 30 },
+  "reward_coins": 150
+}
